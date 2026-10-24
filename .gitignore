@@ -221,3 +221,6 @@ __marimo__/
 
 # test files
 files/
+
+# generated results
+results/
